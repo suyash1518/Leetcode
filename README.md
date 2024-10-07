@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
