@@ -17,6 +17,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/suyash1518/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
