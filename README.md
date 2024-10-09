@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/suyash1518/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/suyash1518/Leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
 ## Binary Search
@@ -53,5 +55,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
