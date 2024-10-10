@@ -40,6 +40,7 @@
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -61,4 +63,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
