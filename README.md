@@ -41,6 +41,7 @@
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/suyash1518/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -50,11 +51,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/suyash1518/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
