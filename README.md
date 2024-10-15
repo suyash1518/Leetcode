@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suyash1518/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
@@ -17,6 +18,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
@@ -38,6 +40,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/suyash1518/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suyash1518/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
@@ -52,6 +55,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
