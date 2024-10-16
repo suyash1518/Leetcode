@@ -24,12 +24,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
