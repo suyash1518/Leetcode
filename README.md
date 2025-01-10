@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/suyash1518/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suyash1518/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
