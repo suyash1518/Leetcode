@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/suyash1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
