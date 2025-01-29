@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
@@ -92,5 +93,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
