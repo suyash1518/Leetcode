@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/suyash1518/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/suyash1518/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
