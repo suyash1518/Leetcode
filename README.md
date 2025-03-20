@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suyash1518/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suyash1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -40,10 +41,12 @@
 | [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/suyash1518/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/suyash1518/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/suyash1518/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
@@ -63,11 +67,13 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/suyash1518/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
