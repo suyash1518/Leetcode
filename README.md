@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suyash1518/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/suyash1518/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suyash1518/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suyash1518/Leetcode/tree/master/0283-move-zeroes) |
