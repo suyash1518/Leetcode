@@ -31,6 +31,7 @@
 | [0027-remove-element](https://github.com/suyash1518/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/suyash1518/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
@@ -43,11 +44,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/suyash1518/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -111,4 +114,12 @@
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suyash1518/Leetcode/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
