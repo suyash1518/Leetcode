@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/suyash1518/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suyash1518/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/suyash1518/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/suyash1518/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/suyash1518/Leetcode/tree/master/0075-sort-colors) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suyash1518/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/suyash1518/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/suyash1518/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
