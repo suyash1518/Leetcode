@@ -38,6 +38,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyash1518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/suyash1518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/suyash1518/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/suyash1518/Leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/suyash1518/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
