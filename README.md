@@ -53,6 +53,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suyash1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/suyash1518/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/suyash1518/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suyash1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suyash1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -103,6 +104,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suyash1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/suyash1518/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/suyash1518/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
