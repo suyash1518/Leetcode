@@ -63,6 +63,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suyash1518/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suyash1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suyash1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suyash1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suyash1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -193,4 +195,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/suyash1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suyash1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
