@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyash1518/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suyash1518/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/suyash1518/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/suyash1518/Leetcode/tree/master/0344-reverse-string) |
@@ -17,6 +18,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suyash1518/Leetcode/tree/master/0020-valid-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
