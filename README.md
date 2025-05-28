@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/suyash1518/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/suyash1518/Leetcode/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suyash1518/Leetcode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
