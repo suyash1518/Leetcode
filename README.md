@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/suyash1518/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/suyash1518/Leetcode/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
@@ -104,6 +105,7 @@
 | [0326-power-of-three](https://github.com/suyash1518/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/suyash1518/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
