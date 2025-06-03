@@ -14,6 +14,7 @@
 | [0205-isomorphic-strings](https://github.com/suyash1518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suyash1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suyash1518/Leetcode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/suyash1518/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -87,6 +88,7 @@
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suyash1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suyash1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suyash1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Union Find
 |  |
 | ------- |
@@ -220,4 +224,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/suyash1518/Leetcode/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
