@@ -61,6 +61,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suyash1518/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/suyash1518/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyash1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suyash1518/Leetcode/tree/master/0204-count-primes) |
@@ -135,6 +136,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suyash1518/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/suyash1518/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyash1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/suyash1518/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -186,6 +188,7 @@
 | [0075-sort-colors](https://github.com/suyash1518/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/suyash1518/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyash1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suyash1518/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suyash1518/Leetcode/tree/master/0344-reverse-string) |
