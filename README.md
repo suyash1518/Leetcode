@@ -76,6 +76,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suyash1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/suyash1518/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/suyash1518/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suyash1518/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suyash1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -96,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/suyash1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/suyash1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suyash1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/suyash1518/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suyash1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -231,6 +234,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suyash1518/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/suyash1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/suyash1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suyash1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suyash1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
