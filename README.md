@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suyash1518/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -71,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/suyash1518/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/suyash1518/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/suyash1518/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/suyash1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suyash1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -98,6 +100,7 @@
 | [0242-valid-anagram](https://github.com/suyash1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suyash1518/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/suyash1518/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/suyash1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/suyash1518/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
