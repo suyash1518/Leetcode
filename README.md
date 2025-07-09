@@ -35,6 +35,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/suyash1518/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suyash1518/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/suyash1518/Leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -266,15 +267,21 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suyash1518/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/suyash1518/Leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suyash1518/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/suyash1518/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suyash1518/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/suyash1518/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suyash1518/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suyash1518/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/suyash1518/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
