@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suyash1518/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suyash1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyash1518/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suyash1518/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/suyash1518/Leetcode/tree/master/0155-min-stack) |
@@ -58,6 +59,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suyash1518/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/suyash1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/suyash1518/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/suyash1518/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
@@ -191,6 +193,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suyash1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/suyash1518/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/suyash1518/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyash1518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +209,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suyash1518/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suyash1518/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/suyash1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suyash1518/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/suyash1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/suyash1518/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -271,6 +275,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suyash1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyash1518/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suyash1518/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
