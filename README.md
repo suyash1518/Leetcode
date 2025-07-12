@@ -39,6 +39,7 @@
 | [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suyash1518/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/suyash1518/Leetcode/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/suyash1518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -91,6 +92,7 @@
 | [0792-binary-search](https://github.com/suyash1518/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/suyash1518/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/suyash1518/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0943-sum-of-subarray-minimums](https://github.com/suyash1518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suyash1518/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -198,6 +200,7 @@
 | [0085-maximal-rectangle](https://github.com/suyash1518/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyash1518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/suyash1518/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0943-sum-of-subarray-minimums](https://github.com/suyash1518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -281,6 +284,7 @@
 | [0496-next-greater-element-i](https://github.com/suyash1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suyash1518/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/suyash1518/Leetcode/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/suyash1518/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
