@@ -307,4 +307,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/suyash1518/Leetcode/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/suyash1518/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
