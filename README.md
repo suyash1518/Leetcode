@@ -142,6 +142,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suyash1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suyash1518/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/suyash1518/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/suyash1518/Leetcode/tree/master/0066-plus-one) |
@@ -189,6 +190,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suyash1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/suyash1518/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/suyash1518/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/suyash1518/Leetcode/tree/master/0231-power-of-two) |
@@ -322,6 +324,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suyash1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/suyash1518/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/suyash1518/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suyash1518/Leetcode/tree/master/0142-linked-list-cycle-ii) |
