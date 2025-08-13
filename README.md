@@ -161,6 +161,7 @@
 | [0326-power-of-three](https://github.com/suyash1518/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suyash1518/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
+| [1070-convert-to-base-2](https://github.com/suyash1518/Leetcode/tree/master/1070-convert-to-base-2) |
 | [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
