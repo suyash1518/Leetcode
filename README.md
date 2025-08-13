@@ -118,6 +118,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/suyash1518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/suyash1518/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suyash1518/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/suyash1518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/suyash1518/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suyash1518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suyash1518/Leetcode/tree/master/0217-contains-duplicate) |
@@ -242,6 +243,7 @@
 | [0143-reorder-list](https://github.com/suyash1518/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/suyash1518/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/suyash1518/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/suyash1518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suyash1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/suyash1518/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suyash1518/Leetcode/tree/master/0283-move-zeroes) |
@@ -343,6 +345,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/suyash1518/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suyash1518/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/suyash1518/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/suyash1518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/suyash1518/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suyash1518/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suyash1518/Leetcode/tree/master/0328-odd-even-linked-list) |
