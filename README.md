@@ -108,6 +108,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suyash1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suyash1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suyash1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/suyash1518/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suyash1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@
 | [1013-fibonacci-number](https://github.com/suyash1518/Leetcode/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/suyash1518/Leetcode/tree/master/1070-convert-to-base-2) |
 | [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/suyash1518/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
