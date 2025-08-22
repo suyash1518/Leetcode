@@ -369,4 +369,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suyash1518/Leetcode/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/suyash1518/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
