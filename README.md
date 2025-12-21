@@ -22,6 +22,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/suyash1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/suyash1518/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/suyash1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1528-shuffle-string](https://github.com/suyash1518/Leetcode/tree/master/1528-shuffle-string) |
 | [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
@@ -107,6 +108,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suyash1518/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1528-shuffle-string](https://github.com/suyash1518/Leetcode/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suyash1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suyash1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suyash1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
