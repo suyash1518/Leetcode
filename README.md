@@ -23,6 +23,7 @@
 | [1108-defanging-an-ip-address](https://github.com/suyash1518/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/suyash1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/suyash1518/Leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/suyash1518/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2032-largest-odd-number-in-string](https://github.com/suyash1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyash1518/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
