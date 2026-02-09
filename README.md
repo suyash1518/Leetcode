@@ -111,6 +111,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/suyash1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/suyash1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/suyash1518/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1470-shuffle-the-array](https://github.com/suyash1518/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/suyash1518/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/suyash1518/Leetcode/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suyash1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
