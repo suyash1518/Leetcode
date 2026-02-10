@@ -115,6 +115,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/suyash1518/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/suyash1518/Leetcode/tree/master/1528-shuffle-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suyash1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1672-richest-customer-wealth](https://github.com/suyash1518/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suyash1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/suyash1518/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/suyash1518/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/suyash1518/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/suyash1518/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1672-richest-customer-wealth](https://github.com/suyash1518/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
